@@ -1,0 +1,3 @@
+- [ ] Finish w01 loop drills
+- [ ] Add w02: venv + requirements
+- [ ] Console mini program v1
